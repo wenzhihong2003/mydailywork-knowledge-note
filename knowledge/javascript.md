@@ -9,6 +9,25 @@
 #### [复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42  "spa")
 #### [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
 
+#### 电子书
+[Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+[Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+[浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+[前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+
+[Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+
+[HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+[HTTP2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+[http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+
+[免费的HTML5相关技术书籍](https://github.com/wangleihd/freeBook-H5)
+
+[JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+[ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+
+
+
 ### electron
 
 #### [electron 中文翻译文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
