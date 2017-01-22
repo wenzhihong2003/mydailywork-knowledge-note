@@ -39,6 +39,17 @@ java
 [重走Java基础之Streams(四)](https://zhuanlan.zhihu.com/p/24915742?refer=dreawer)
 
 
+### java8
+[Java 8的新特性—终极版](http://www.jianshu.com/p/5b800057f2d8)
+[Java 8 的新特性和改进总览](https://www.oschina.net/translate/everything-about-java-8)
+[Java8新特性探究](https://wizardforcel.gitbooks.io/java8-new-features/content/)
+[guava-java8-presentation](https://robinst.github.io/guava-java8-presentation/#/)
+
+
+[NoClassDefFoundError和ClassNotFoundException的不同](http://www.jianshu.com/p/93d0db07d2e3)
+[使用Apache Kafka构建流式数据平台（1）](http://www.jianshu.com/p/96478391ef8f)
+
+
 ### 工具类
 [使用JetBrains注解库注释你的代码](JBAnnotations.md)
 
