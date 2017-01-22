@@ -1,5 +1,13 @@
 ### 文章
 
+[rxjava中文文档](https://mcxiaoke.gitbooks.io/rxdocs/content/)
+[探索专为 Android 而设计的 RxJava 2](https://realm.io/cn/news/gotocph-jake-wharton-exploring-rxjava2-android/)
+[RxJava 介绍](https://realm.io/cn/news/360andev-christina-lee-intro-rxjava-java-android/)
+[探索 Java 隐藏的开销](https://realm.io/cn/news/360andev-jake-wharton-java-hidden-costs-android/)
+[Airbnb：我们的安卓客户端是如何使用 RxJava 的](https://realm.io/cn/news/kau-felipe-lima-adopting-rxjava-airbnb-android/)
+[Java Functional Reactive 编程](https://realm.io/cn/news/droidcon-gomez-functional-reactive-programming/)
+[用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
+
 [RxJava系列1(简介)](https://zhuanlan.zhihu.com/p/20687178)  
 [RxJava系列2(基本概念及使用介绍)](https://zhuanlan.zhihu.com/p/20687307)  
 [RxJava系列3(转换操作符)](https://zhuanlan.zhihu.com/p/21926591)  
@@ -40,6 +48,12 @@
 [【译】使用RxJava从多个数据源获取数据](http://www.jianshu.com/p/be084df924dc)  
 [【译】避免打断链式结构：使用.compose( )操作符](http://www.jianshu.com/p/e9e03194199e)  
 [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
+
+[关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭](https://zhuanlan.zhihu.com/p/24482660?refer=dreawer)
+[关于RxJava最友好的文章（初级篇）](https://zhuanlan.zhihu.com/p/23584382)
+[关于RxJava最友好的文章（进阶篇）](https://zhuanlan.zhihu.com/p/23585300)
+[关于RxJava最友好的文章——背压（Backpressure）](https://zhuanlan.zhihu.com/p/24473022?refer=dreawer)
+
 
 ### awesome
 
