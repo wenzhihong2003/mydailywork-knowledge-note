@@ -43,6 +43,8 @@ java
 [Java 8的新特性—终极版](http://www.jianshu.com/p/5b800057f2d8)
 [Java 8 的新特性和改进总览](https://www.oschina.net/translate/everything-about-java-8)
 [Java8新特性探究](https://wizardforcel.gitbooks.io/java8-new-features/content/)
+[Java8简明教程](https://wizardforcel.gitbooks.io/modern-java/content/)
+
 [guava-java8-presentation](https://robinst.github.io/guava-java8-presentation/#/)
 
 
