@@ -1,13 +1,12 @@
 ### 前端blog
 
-#### [徐飞blog, 民工叔](https://github.com/xufei/blog)
-#### [taobao云谦, dvajs发起人](https://github.com/sorrycc/blog/issues)
+[徐飞blog, 民工叔](https://github.com/xufei/blog)
+[taobao云谦, dvajs发起人](https://github.com/sorrycc/blog/issues)
 
+[JavaScript风格指南](https://github.com/alivebao/clean-code-js/blob/master/README.md)
 
-#### [JavaScript风格指南](https://github.com/alivebao/clean-code-js/blob/master/README.md)
-
-#### [复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42  "spa")
-#### [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
+[复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42  "spa")
+[流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
 
 #### 电子书
 [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
@@ -30,9 +29,10 @@
 
 ### electron
 
-#### [electron 中文翻译文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
-#### [Electron 中文文档](http://www.kancloud.cn/wizardforcel/electron-doc)
-#### [Electron 应用实战 (架构篇)](https://github.com/sorrycc/blog/issues/13)
+[electron 中文翻译文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
+[Electron 中文文档](http://www.kancloud.cn/wizardforcel/electron-doc)
+[Electron 应用实战 (架构篇)](https://github.com/sorrycc/blog/issues/13)
+[Electron 实践之自动更新](https://github.com/sorrycc/blog/issues/26)
 
 #### [在electron中出现 jQuery is not defined](http://stackoverflow.com/questions/32621988/electron-jquery-is-not-defined)
 这个主要是因为electron默认使用的nodejs的module的加载模式起的. 解决方法
