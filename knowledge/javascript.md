@@ -24,7 +24,7 @@
 
 [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-
+[Javascript 半知半解](http://www.kancloud.cn/dennis/tgjavascript/241800)
 
 
 ### electron
