@@ -1,38 +1,39 @@
 ### 前端blog
 
-[徐飞blog, 民工叔](https://github.com/xufei/blog)
-[taobao云谦, dvajs发起人](https://github.com/sorrycc/blog/issues)
+[徐飞blog, 民工叔](https://github.com/xufei/blog)  
+[taobao云谦, dvajs发起人](https://github.com/sorrycc/blog/issues)  
+[[dwqs-blog](https://github.com/dwqs/blog)  
+[JavaScript风格指南](https://github.com/alivebao/clean-code-js/blob/master/README.md)  
+[复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42  "spa")  
 
-[JavaScript风格指南](https://github.com/alivebao/clean-code-js/blob/master/README.md)
-
-[复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42  "spa")
-[流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38)
+[关于Promise：你可能不知道的6件事](https://github.com/dwqs/blog/issues/1)  
+[不再彷徨：完全弄懂JavaScript中的this](https://segmentfault.com/a/1190000006076637)  
 
 #### 电子书
-[Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
-[Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
-[浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
-[前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+[Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)  
+[Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)  
+[浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)  
+[前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)  
 
-[Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+[Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)  
 
-[HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-[HTTP2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
-[http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+[HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)  
+[HTTP2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)  
+[http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)  
 
-[免费的HTML5相关技术书籍](https://github.com/wangleihd/freeBook-H5)
+[免费的HTML5相关技术书籍](https://github.com/wangleihd/freeBook-H5)  
 
-[JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-[ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-[Javascript 半知半解](http://www.kancloud.cn/dennis/tgjavascript/241800)
+[JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)  
+[ECMAScript 6 入门](http://es6.ruanyifeng.com/)  
+[Javascript 半知半解](http://www.kancloud.cn/dennis/tgjavascript/241800)  
 
 
 ### electron
 
-[electron 中文翻译文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)
-[Electron 中文文档](http://www.kancloud.cn/wizardforcel/electron-doc)
-[Electron 应用实战 (架构篇)](https://github.com/sorrycc/blog/issues/13)
-[Electron 实践之自动更新](https://github.com/sorrycc/blog/issues/26)
+[electron 中文翻译文档](https://github.com/electron/electron/tree/master/docs-translations/zh-CN)  
+[Electron 中文文档](http://www.kancloud.cn/wizardforcel/electron-doc)  
+[Electron 应用实战 (架构篇)](https://github.com/sorrycc/blog/issues/13)  
+[Electron 实践之自动更新](https://github.com/sorrycc/blog/issues/26)  
 
 #### [在electron中出现 jQuery is not defined](http://stackoverflow.com/questions/32621988/electron-jquery-is-not-defined)
 这个主要是因为electron默认使用的nodejs的module的加载模式起的. 解决方法
@@ -126,4 +127,20 @@ console.log(require('electron').remote.getGlobal('sharedObject').someProperty)
 [AngularJS 教程](http://www.runoob.com/angularjs/angularjs-tutorial.html)  
 [angularjs guide](http://docs.ngnice.com/guide)  
 [angularjs 中文api说明](http://www.angularjsapi.cn/)  
-    
+[angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)  
+[AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)  
+[angulartics Analytics for AngularJS applications 统计, 支持baidu](https://github.com/angulartics/angulartics)
+[angular-styleguide es6](https://github.com/toddmotto/angular-styleguide)  
+[Make-Your-Own-AngularJS(https://github.com/xufei/Make-Your-Own-AngularJS)  
+[前端如何更好的实现接口的缓存和更新?](https://www.zhihu.com/question/40035517)  
+[傅里叶分析之掐死教程（完整版）](https://zhuanlan.zhihu.com/p/19763358?columnSlug=wille)
+  
+### webpack
+
+[Webpack 2 快速入门](https://github.com/dwqs/blog/issues/46)  
+[webpack2 终极优化](http://imweb.io/topic/5868e1abb3ce6d8e3f9f99bb)  
+[多页为王：webpack多页应用架构专题系列](http://array_huang.coding.me/webpack-book/)  
+[Webpack的dll功能](https://segmentfault.com/a/1190000005969643)  
+[经典webpack入门](https://github.com/starduliang/blog/blob/master/2016.6/webpack%20your%20bags.md)  
+[Webpack——令人困惑的地方](https://segmentfault.com/a/1190000005089993)  
+[入门 Webpack，看这篇就够了](https://segmentfault.com/a/1190000006178770)  
