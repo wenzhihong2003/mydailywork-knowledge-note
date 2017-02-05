@@ -35,7 +35,8 @@ vertx 是异步java框架
 [Vertx实例的创建流程及内部实现](http://mp.weixin.qq.com/s/IfT7e2BTkYFbF2dyb6h5LA)  
 [Event Bus Local模式源码分析 (上)](http://mp.weixin.qq.com/s/THnf4nxseCH730IynG7RlA)  
 [Event Bus Local模式源码分析 (中)](http://mp.weixin.qq.com/s/LxMcsW4Sd4Gg_NjDqIz1PA)  
-[Event Bus Local模式源码分析 (下)](http://mp.weixin.qq.com/s/rLLu2E-rCjhf1mHIXVotew)
+[Event Bus Local模式源码分析 (下)](http://mp.weixin.qq.com/s/rLLu2E-rCjhf1mHIXVotew)  
+[什么是 Event Loop？](http://www.ruanyifeng.com/blog/2013/10/event_loop.html)  
 
 ### vertx 文章
 [vertx蓝图](http://www.sczyh30.com/vertx-blueprint-microservice/cn/index.html)  
@@ -66,3 +67,10 @@ vertx 是异步java框架
 [Vert.x Web模块（四）](http://blog.csdn.net/jflydragon/article/details/52755762)  
 [Vert.x Web模块（五）](http://blog.csdn.net/jflydragon/article/details/52755770)  
 [Vert.x Web模块（六）](http://blog.csdn.net/jflydragon/article/details/52755791)
+
+[我的第一个Vert.x 3 应用](http://quanke.name/2016/01/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAVert-x-3-%E5%BA%94%E7%94%A8/)  
+[Vert.x 应用的配置](http://quanke.name/2016/01/15/Vert-x-%E5%BA%94%E7%94%A8%E7%9A%84%E9%85%8D%E7%BD%AE/)  
+[Vert.x 实现REST](http://quanke.name/2016/01/15/Vert-x-%E5%AE%9E%E7%8E%B0REST/)  
+[Vert.x 通过异步的方式使用JDBC连接SQL](http://quanke.name/2016/01/16/Vert-x-%E9%80%9A%E8%BF%87%E5%BC%82%E6%AD%A5%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BD%BF%E7%94%A8JDBC%E8%BF%9E%E6%8E%A5SQL/)  
+[Vert-x配置项VertxOptions的使用](http://quanke.name/2016/04/04/Vert-x%E9%85%8D%E7%BD%AE%E9%A1%B9VertxOptions%E7%9A%84%E4%BD%BF%E7%94%A8/)  
+[Vert.x 3.x版本callback hell的解决](http://quanke.name/2016/04/09/Vert-x-3-x%E7%89%88%E6%9C%ACcallback-hell%E7%9A%84%E8%A7%A3%E5%86%B3/)  
