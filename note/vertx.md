@@ -74,3 +74,10 @@ vertx 是异步java框架
 [Vert.x 通过异步的方式使用JDBC连接SQL](http://quanke.name/2016/01/16/Vert-x-%E9%80%9A%E8%BF%87%E5%BC%82%E6%AD%A5%E7%9A%84%E6%96%B9%E5%BC%8F%E4%BD%BF%E7%94%A8JDBC%E8%BF%9E%E6%8E%A5SQL/)  
 [Vert-x配置项VertxOptions的使用](http://quanke.name/2016/04/04/Vert-x%E9%85%8D%E7%BD%AE%E9%A1%B9VertxOptions%E7%9A%84%E4%BD%BF%E7%94%A8/)  
 [Vert.x 3.x版本callback hell的解决](http://quanke.name/2016/04/09/Vert-x-3-x%E7%89%88%E6%9C%ACcallback-hell%E7%9A%84%E8%A7%A3%E5%86%B3/)  
+
+[vert.x笔记：1.vert.x介绍](http://www.heartlifes.com/archives/24/)
+[vert.x笔记：2.hello vert.x--第一个vert.x hello world工程](http://www.heartlifes.com/archives/25/)
+[vert.x笔记：3.使用vert.x发布restful接口](http://www.heartlifes.com/archives/26/)
+[vert.x笔记：4.vert.x中调用spring服务](http://www.heartlifes.com/archives/27/)
+[vert.x笔记：5.vert.x集成dubbo服务](http://www.heartlifes.com/archives/28/)
+[vert.x笔记：6.vert.x集群化部署](http://www.heartlifes.com/archives/31/)
