@@ -1,3 +1,10 @@
+[MySQL数据库复制概论](https://my.oschina.net/andylucc/blog/631591)
+[一致性非锁定读与一致性锁定读](https://my.oschina.net/andylucc/blog/804229)
+[关于InnoDB Double Write](https://my.oschina.net/andylucc/blog/808082)
+[MySQL线程池内幕](https://my.oschina.net/andylucc/blog/820624)
+[MySQL统计信息](https://my.oschina.net/andylucc/blog/841720)
+
+
 ### mysql jdbc 记录sql实际执行各种时间
 ```
 profileSQL=true&gatherPerfMetrics=true&reportMetricsIntervalMillis=500
