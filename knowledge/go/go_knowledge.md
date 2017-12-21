@@ -1,6 +1,57 @@
 go语言小知识点
 ========
 
+### go里的类型零值
+
+```
+bool      -> false                              
+numbers -> 0                                 
+string    -> ""      
+
+pointers -> nil
+slices -> nil
+maps -> nil
+channels -> nil
+functions -> nil
+interfaces -> nil
+```
+
+
+nil是预定义的标识符，代表指针、通道、函数、接口、映射或切片的零值 
+
+对于指针对象的方法来说，就算指针的值为nil也是可以调用的
+
+https://yushuangqi.com/blog/2017/li-jie-goyu-yan-de-nil.html
+
+http://www.jianshu.com/p/dd80f6be7969
+
+一个为nil的slice，除了不能索引外，其他的操作都是可以的，当你需要填充值的时候可以使用append函数，slice会自动进行扩充。那么为nil的slice的底层结构是怎样的呢？根据官方的文档，slice有三个元素，分别是长度、容量、指向数组的指针：
+
+对于nil的map，我们可以简单把它看成是一个只读的map，不能进行写操作，否则就会panic
+
+关闭一个nil的channel会导致程序panic
+
+interface并不是一个指针，它的底层实现由两部分组成，一个是类型，一个值，也就是类似于：(Type, Value)。只有当类型和值都是nil的时候，才等于nil
+
+
+### 如何优雅地关闭Go channel
+
+http://www.jianshu.com/p/d24dfbb33781
+
+### 编写地道的Go代码
+https://yushuangqi.com/blog/2017/bian-xie-de-dao-de-godai-ma.html
+
+### Goreflect包
+1. reflect.Type 类型
+2. reflect.Value 类型
+https://yushuangqi.com/blog/2017/go-reflectbao.html
+
+### 深入了解Go接口
+https://yushuangqi.com/blog/2017/shen-ru-le-jie-gojie-kou.html
+
+
+https://github.com/feixiao/testing
+
 ### 引用类型
 
 在Go语言中，引用类型有 **切片**, **map**, **接口**, **函数类型**, **chan**

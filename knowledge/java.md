@@ -1,12 +1,24 @@
 java
 ====
 
+### jni
+
+[IntelliJ IDEA平台下JNI编程（一）—HelloWorld篇](http://www.jianshu.com/p/44cbe11e5d35)
+[IntelliJ IDEA平台下JNI编程（二）—类型映射](http://www.jianshu.com/p/3d483597d641)
+[IntelliJ IDEA平台下JNI编程（三）—字符串、数组](http://www.jianshu.com/p/f216b482b90e)
+[IntelliJ IDEA平台下JNI编程（四）—本地C代码访问JAVA对象](http://www.jianshu.com/p/1231d31d672e)
+[IntelliJ IDEA平台下JNI编程（五）—本地C代码创建Java对象及引用](http://www.jianshu.com/p/19a6c3577cab)
+
 ### 电子书
 
 [Essential Java.《Java 编程要点》](https://waylau.gitbooks.io/essential-java/)
 [《Java 虚拟机规范》中文翻译及示例](https://github.com/waylau/java-virtual-machine-specification)
 
 [关于编程路上的一些杂谈 多线程中锁的秘密](https://zhuanlan.zhihu.com/p/24776143?refer=dreawer)
+
+### jvm
+[双亲委派模型与自定义类加载器](http://www.jianshu.com/p/acc7595f1b9d)
+[假笨答疑-不起眼，但是足以让你收获的JVM内存案例](https://mp.weixin.qq.com/s?__biz=MzIzNjI1ODc2OA==&mid=2650887123&idx=1&sn=80a695dbd87a70b90135e390c799279e&chksm=f32f676cc458ee7a2f0f9f06a978e75fa415ca760cc44f330c1f123d8e101bf6aa0ae2bf8f5a&mpshare=1&scene=23&srcid=1221AU5Szp4qD5WayYbcZ9aU#rd)
 
 
 ### 深入理解Java集合框架
@@ -51,9 +63,12 @@ java
 [NoClassDefFoundError和ClassNotFoundException的不同](http://www.jianshu.com/p/93d0db07d2e3)
 [使用Apache Kafka构建流式数据平台（1）](http://www.jianshu.com/p/96478391ef8f)
 
+[An open source Java RAD framework for enterprise web applications. 在idea上有相应的插件工具](https://www.cuba-platform.com/)
 
 ### 工具类
 [使用JetBrains注解库注释你的代码](JBAnnotations.md)
+[使用jb的external tools](http://blog.csdn.net/SJZYLC/article/details/50173215)
+[配置external tools](https://www.jetbrains.com/help/idea/configuring-third-party-tools.html)
 
 ### netty
 [海量连接服务端jvm参数调优杂记](http://www.jianshu.com/p/051d566e110d)
